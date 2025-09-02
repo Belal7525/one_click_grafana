@@ -1,0 +1,4 @@
+---
+grafana_port: 3000
+prometheus_port: 9090
+node_exporter_port: 9100
